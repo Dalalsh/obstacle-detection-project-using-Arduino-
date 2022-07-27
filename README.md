@@ -15,7 +15,7 @@ Note: The project is implemented using only 2 ultrasonic sensor , you can use on
 
 ![MicrosoftTeams-image (10)](https://user-images.githubusercontent.com/109669329/181350490-03a37991-2027-48ca-87d5-38d88859be68.png)
 
-Developers: Dalal Shamseddine, Mariam Al Zein, Asan Abboud
+Developers: Dalal Shamseddine, Mariam Al Zein, Assan Abboud
 
 Collaborator: Hussein Shreim
 
