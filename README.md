@@ -10,3 +10,4 @@ components used:
 7. 3.5 mm jack audio
 
 Note: The project is implemented using only 2 ultrasonic sensor , you can use one extra sensor at the center( pins 4 and 5 on schematic) as shown in the schematic but few changes should be taken into consideration for the code.
+![MicrosoftTeams-image (10)](https://user-images.githubusercontent.com/109669329/181350490-03a37991-2027-48ca-87d5-38d88859be68.png)
